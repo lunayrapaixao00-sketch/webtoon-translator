@@ -1,0 +1,7 @@
+easyocr
+deepl
+opencv-python
+numpy
+mss
+PySide6
+python-dotenv
