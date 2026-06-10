@@ -25,17 +25,17 @@ Aplicativo desktop desenvolvido em Python para traduzir textos de webtoons diret
 
 ### Tela Principal
 
-![Tela Inicial](screenshots/tela-inicial.png)
+![Tela Inicial](tela-inicial.png)
 
 
 ### Seleção da Área
 
-![Seleção](screenshots/selecao-area.png)
+![Seleção](selecao-area.png)
 
 ### Tradução
 
 
-![Tradução](screenshots/traducao.png)
+![Tradução](traducao.png)
 
 ---
 
